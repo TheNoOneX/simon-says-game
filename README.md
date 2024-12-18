@@ -9,8 +9,11 @@ The Simon Says game challenges players to remember and repeat a sequence of colo
 # 🛠️ Features
 
 Interactive Gameplay: Follow the color sequence shown and try to beat your high score.
+
 Dynamic DOM Manipulation: Visual effects are applied directly to HTML elements to enhance interactivity.
+
 Responsive Design: Adapted for various screen sizes using CSS.
+
 Event Handling: Real-time response to user clicks through JavaScript event listeners.
 
 # 🚀 How It Works
